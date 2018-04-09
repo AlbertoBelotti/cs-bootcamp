@@ -1,4 +1,5 @@
 
+
 namespace: io.cloudslang.demo
 
 operation:
